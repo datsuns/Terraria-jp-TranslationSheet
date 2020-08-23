@@ -10,6 +10,11 @@
 1. *TrJpModMaker*/data/csv にある `TerrariaTranslationSheet.csv`をこのファイルに置き換える
 1. TrJpModMakerで通常通りに **Create MOD** を実行して、 **RUN** する
 
+# 注意点
+
+* 今回 @datsuns の追加した日本語部分には文頭に "★" がついています（そのままゲーム上に表示されます）
+   * 不要な場合は直接csv上の"★"を削除後、**Create MOD** を再実行してください
+
 # 動作確認環境
 
 | Steam版テラリア | TrJpModMaker |
