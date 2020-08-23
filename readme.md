@@ -8,7 +8,7 @@
 
 1. ↑のリンクに提示されるTrJpModMakerをダウンロード
 1. *TrJpModMaker*/data/csv にある `TerrariaTranslationSheet.csv`をこのファイルに置き換える
-1. 通常通りに **Create MOD** を実行して、 **RUN** する
+1. TrJpModMakerで通常通りに **Create MOD** を実行して、 **RUN** する
 
 # 動作確認環境
 
