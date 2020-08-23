@@ -129,23 +129,23 @@ Terraria.Localization.Content.en-US.Game,LoadingTips_Keyboard,0,You can continuo
 Terraria.Localization.Content.en-US.Game,LoadingTips_Keyboard,1,Press {InputTrigger_SmartCursor} to switch between Cursor Modes.,★プレス {InputTrigger_SmartCursor} カーソルモードを切り替えます。
 Terraria.Localization.Content.en-US.Game,LoadingTips_Keyboard,2,"If your Inventory is full, you can press {InputTriggerUI_Trash} and {InputTrigger_UseOrAttack} to send items to the Trash.",★あなたのインベントリがいっぱいになった場合は、ゴミ箱にアイテムを送信するために、 {InputTriggerUI_Trash} と {InputTrigger_UseOrAttack} を押すことができます。
 Terraria.Localization.Content.en-US.Game,LoadingTips_Keyboard,3,"When speaking to a vendor, you can sell items in your Inventory by pressing {InputTriggerUI_Trash} and {InputTrigger_UseOrAttack}.",★ベンダーに話すとき、あなたは {InputTriggerUI_Trash} と {InputTrigger_UseOrAttack} を押して、あなたのインベントリ内のアイテムを販売することができます。
-Terraria.Localization.Content.en-US.Game,LoadingTips_Keyboard,4,You can remove Torches with {InputTrigger_InteractWithTile} or with a pickaxe.,★あなたは{} InputTrigger_InteractWithTileまたはつるはしでトーチを削除することができます。
-Terraria.Localization.Content.en-US.Game,LoadingTips_Keyboard,5,"In your Inventory, you can press {InputTrigger_InteractWithTile} to equip items such as armor or accessories directly to a usable slot.",★あなたのインベントリでは、あなたは、このような使用可能なスロットに直接鎧やアクセサリーなどのアイテムを装備する{InputTrigger_InteractWithTile}を押すことができます。
-Terraria.Localization.Content.en-US.Game,LoadingTips_Keyboard,6,"Hold {InputTrigger_SmartSelect} to use Auto Select, a versatile feature that adapts to your environment. It will allow you to automatically hold your Torches in dark caves, Glowsticks when underwater, or even select the right tool for breaking something.",★自動選択、ご使用の環境に適応している多彩な機能を使用するには、ホールド{} InputTrigger_SmartSelect。それはあなたが自動的に、暗い洞窟であなたのトーチを保持Glowsticksとき水中、あるいは何かを壊すための適切なツールを選択することができるようになります。
-Terraria.Localization.Content.en-US.Game,LoadingTips_Keyboard,7,"Press {InputTriggerUI_FavoriteItem} and {InputTrigger_UseOrAttack} to Favorite an item. Favorited items can no longer be sold, thrown away, or dropped. No more accidentally losing your favorite items!",★お気に入りにプレス{InputTriggerUI_FavoriteItem}と{InputTrigger_UseOrAttack}アイテム。お気に入りのアイテムは、もはや、販売していない捨て、または削除することができます。これ以上誤って、お気に入りのアイテムを失います！
+Terraria.Localization.Content.en-US.Game,LoadingTips_Keyboard,4,You can remove Torches with {InputTrigger_InteractWithTile} or with a pickaxe.,★あなたは {InputTrigger_InteractWithTile} またはつるはしでトーチを削除することができます。
+Terraria.Localization.Content.en-US.Game,LoadingTips_Keyboard,5,"In your Inventory, you can press {InputTrigger_InteractWithTile} to equip items such as armor or accessories directly to a usable slot.",★あなたのインベントリでは、あなたは、このような使用可能なスロットに直接鎧やアクセサリーなどのアイテムを装備する {InputTrigger_InteractWithTile} を押すことができます。
+Terraria.Localization.Content.en-US.Game,LoadingTips_Keyboard,6,"Hold {InputTrigger_SmartSelect} to use Auto Select, a versatile feature that adapts to your environment. It will allow you to automatically hold your Torches in dark caves, Glowsticks when underwater, or even select the right tool for breaking something.",★自動選択、ご使用の環境に適応している多彩な機能を使用するには、ホールド {InputTrigger_SmartSelect} 。それはあなたが自動的に、暗い洞窟であなたのトーチを保持Glowsticksとき水中、あるいは何かを壊すための適切なツールを選択することができるようになります。
+Terraria.Localization.Content.en-US.Game,LoadingTips_Keyboard,7,"Press {InputTriggerUI_FavoriteItem} and {InputTrigger_UseOrAttack} to Favorite an item. Favorited items can no longer be sold, thrown away, or dropped. No more accidentally losing your favorite items!",★お気に入りにプレス {InputTriggerUI_FavoriteItem} と {InputTrigger_UseOrAttack} アイテム。お気に入りのアイテムは、もはや、販売していない捨て、または削除することができます。これ以上誤って、お気に入りのアイテムを失います！
 Terraria.Localization.Content.en-US.Game,ChatCommand,Party,/p,★/ P
 Terraria.Localization.Content.en-US.Game,ChatCommand,Emote,/me,★/私
 Terraria.Localization.Content.en-US.Game,ChatCommand,Emoji_0,/emoji,★/絵文字
 Terraria.Localization.Content.en-US.Game,ChatCommand,Emoji_1,/e,★/ E
 Terraria.Localization.Content.en-US.Game,ChatCommand,Help,/help,★/助けて
 Terraria.Localization.Content.en-US.Game,ChatCommand,RPS,/rps,★/ RPS
-Terraria.Localization.Content.en-US.Game,ChatCommandDescription,Party,{$ChatCommand.Party} message: Send the message to your party members,★{$ ChatCommand.Party}メッセージ：あなたのパーティーメンバーにメッセージを送ります
-Terraria.Localization.Content.en-US.Game,ChatCommandDescription,Emote,{$ChatCommand.Emote} message: Send the message in third-person perspective,★{$ ChatCommand.Emote}メッセージ：三人称視点にメッセージを送ります
-Terraria.Localization.Content.en-US.Game,ChatCommandDescription,Playing,{$ChatCommand.Playing_0}: List the names of all players on the server,★{$ ChatCommand.Playing_0}：一覧サーバー上のすべての選手の名前
-Terraria.Localization.Content.en-US.Game,ChatCommandDescription,Roll,{$ChatCommand.Roll}: Roll a number from 1 to 100,★{$ ChatCommand.Roll}：1ロール100から数
-Terraria.Localization.Content.en-US.Game,ChatCommandDescription,Emoji,{$ChatCommand.Emoji_1}: Show your emoji,★{$ ChatCommand.Emoji_1}：あなたの絵文字を表示します
-Terraria.Localization.Content.en-US.Game,ChatCommandDescription,Help,{$ChatCommand.Help}: Lists all the commands you can use,★{$ ChatCommand.Help}：リストあなたが使用できるすべてのコマンド
-Terraria.Localization.Content.en-US.Game,ChatCommandDescription,RPS,"{$ChatCommand.RPS}: Randomly uses a Rock, Paper, or Scissors emote",★{$ ChatCommand.RPS}：ランダムロック、紙、はさみエモートを使用
+Terraria.Localization.Content.en-US.Game,ChatCommandDescription,Party,{$ChatCommand.Party} message: Send the message to your party members,★ {$ChatCommand.Party} メッセージ：あなたのパーティーメンバーにメッセージを送ります
+Terraria.Localization.Content.en-US.Game,ChatCommandDescription,Emote,{$ChatCommand.Emote} message: Send the message in third-person perspective,★ {$ChatCommand.Emote} メッセージ：三人称視点にメッセージを送ります
+Terraria.Localization.Content.en-US.Game,ChatCommandDescription,Playing,{$ChatCommand.Playing_0}: List the names of all players on the server,★ {$ChatCommand.Playing_0} ：一覧サーバー上のすべての選手の名前
+Terraria.Localization.Content.en-US.Game,ChatCommandDescription,Roll,{$ChatCommand.Roll}: Roll a number from 1 to 100,★ {$ChatCommand.Roll} ：1ロール100から数
+Terraria.Localization.Content.en-US.Game,ChatCommandDescription,Emoji,{$ChatCommand.Emoji_1}: Show your emoji,★ {$ChatCommand.Emoji_1} ：あなたの絵文字を表示します
+Terraria.Localization.Content.en-US.Game,ChatCommandDescription,Help,{$ChatCommand.Help}: Lists all the commands you can use,★ {$ChatCommand.Help} ：リストあなたが使用できるすべてのコマンド
+Terraria.Localization.Content.en-US.Game,ChatCommandDescription,RPS,"{$ChatCommand.RPS}: Randomly uses a Rock, Paper, or Scissors emote",★ {$ChatCommand.RPS} ：ランダムロック、紙、はさみエモートを使用
 Terraria.Localization.Content.en-US.Game,EmojiCommand,EmotionLove,/{$EmojiName.EmotionLove},
 Terraria.Localization.Content.en-US.Game,EmojiCommand,EmotionAnger,/{$EmojiName.EmotionAnger},
 Terraria.Localization.Content.en-US.Game,EmojiCommand,EmotionCry,/{$EmojiName.EmotionCry},
