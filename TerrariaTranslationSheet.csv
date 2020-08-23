@@ -6317,7 +6317,7 @@ Terraria.Localization.Content.en-US.Items,ItemName,BlueMoss,Blue Moss,★ブル�
 Terraria.Localization.Content.en-US.Items,ItemName,PurpleMoss,Purple Moss,★パープルモス
 Terraria.Localization.Content.en-US.Items,ItemName,LavaMoss,Lava Moss,★溶岩モス
 Terraria.Localization.Content.en-US.Items,ItemName,BoulderStatue,Boulder Statue,★ボルダー像
-Terraria.Localization.Content.en-US.Items,ItemName,MusicBoxTitleAlt,Music Box (Journey's End),★オルゴール（ジャーニーズエンド）
+Terraria.Localization.Content.en-US.Items,ItemName,MusicBoxTitleAlt,Music Box (Journey's End),★オルゴール (Journey's End)
 Terraria.Localization.Content.en-US.Items,ItemName,MusicBoxStorm,Music Box (Storm),★オルゴール（嵐）
 Terraria.Localization.Content.en-US.Items,ItemName,MusicBoxGraveyard,Music Box (Graveyard),★オルゴール（墓地）
 Terraria.Localization.Content.en-US.Items,ItemName,Seagull,Seagull,★鴎
@@ -9296,8 +9296,8 @@ Terraria.Localization.Content.en-US,UI,Hardcore,Hardcore,ハードコア
 Terraria.Localization.Content.en-US,UI,Master,Master,★主人
 Terraria.Localization.Content.en-US,UI,Expert,Expert,エキスパート
 Terraria.Localization.Content.en-US,UI,Normal,Classic,★クラシック
-Terraria.Localization.Content.en-US,UI,Creative,Journey,★旅
-Terraria.Localization.Content.en-US,UI,CreativeDescriptionPlayer,Journey characters start with extra equipment. Can only be played on Journey worlds.,★旅の文字は、余分な設備で始まります。旅の世界でのみ再生することができます。
+Terraria.Localization.Content.en-US,UI,Creative,Journey,★ジャーニー
+Terraria.Localization.Content.en-US,UI,CreativeDescriptionPlayer,Journey characters start with extra equipment. Can only be played on Journey worlds.,★ジャーニーモードのキャラクターは、特別な設備で始まります。ジャーニーモードの世界でのみ遊ぶことができます。
 Terraria.Localization.Content.en-US,UI,WorldSizeFormat,{0} World,{0} ワールド
 Terraria.Localization.Content.en-US,UI,WorldCreatedFormat,Created: {0},作成日：{0}
 Terraria.Localization.Content.en-US,UI,SelectWorld,Select World,ワールドの選択
@@ -9405,8 +9405,8 @@ Terraria.Localization.Content.en-US,UI,OffsetTexturePackPriorityDown,Move Backwa
 Terraria.Localization.Content.en-US,UI,EnableTexturePack,Enable,★有効
 Terraria.Localization.Content.en-US,UI,DisableTexturePack,Disable,★無効化
 Terraria.Localization.Content.en-US,UI,SeeTexturePackInfo,View Pack Info,★ビューパック情報
-Terraria.Localization.Content.en-US,UI,PlayerIsNotCreativeAndWorldIsCreative,Only Journey characters may enter a Journey world.,★唯一の旅の文字が旅の世界に入ることがあります。
-Terraria.Localization.Content.en-US,UI,PlayerIsCreativeAndWorldIsNotCreative,Only Non-Journey characters may enter a Non-Journey world.,★唯一の非旅の文字は非旅の世界に入ることがあります。
+Terraria.Localization.Content.en-US,UI,PlayerIsNotCreativeAndWorldIsCreative,Only Journey characters may enter a Journey world.,★ジャーニーモードのキャラクターはジャーニーモードの世界にだけ入ることができます。
+Terraria.Localization.Content.en-US,UI,PlayerIsCreativeAndWorldIsNotCreative,Only Non-Journey characters may enter a Non-Journey world.,★ジャーニーモード以外のキャラクターはジャーニーモード以外の世界に入ることができます。
 Terraria.Localization.Content.en-US,UI,PetTheAnimal,Pet,★ペット
 Terraria.Localization.Content.en-US,UI,HoverControlSettingIsClick,Hover Controls: Click,★ホバーコントロール：クリック
 Terraria.Localization.Content.en-US,UI,HoverControlSettingIsHold,Hover Controls: Hold,★ホバーコントロール：ホールド
@@ -9436,8 +9436,8 @@ Terraria.Localization.Content.en-US,Net,RequestingTileData,Requesting tile data,
 Terraria.Localization.Content.en-US,Net,StatusComplete,{0}: Complete!,★ {0} ：コンプリート！
 Terraria.Localization.Content.en-US,Net,NameTooLong,Name is too long.,★名前が長すぎます。
 Terraria.Localization.Content.en-US,Net,EmptyName,Empty name.,★空の名前。
-Terraria.Localization.Content.en-US,Net,PlayerIsNotCreativeAndWorldIsCreative,Only Journey characters may enter a Journey server.,★唯一の旅の文字は、旅のサーバーを入力することができます。
-Terraria.Localization.Content.en-US,Net,PlayerIsCreativeAndWorldIsNotCreative,Only Non-Journey characters may enter a Non-Journey server.,★唯一の非旅の文字は非ジャーニーサーバーを入力することができます。
+Terraria.Localization.Content.en-US,Net,PlayerIsNotCreativeAndWorldIsCreative,Only Journey characters may enter a Journey server.,★ジャーニーモードのキャラクターはジャーニーモードのサーバーにしか入れません。
+Terraria.Localization.Content.en-US,Net,PlayerIsCreativeAndWorldIsNotCreative,Only Non-Journey characters may enter a Non-Journey server.,★ジャーニーモード以外のキャラクターはジャーニーモード以外のサーバーに入ることができます。
 Terraria.Localization.Content.en-US,Net,CannotTeleportToPylonBecausePlayerIsNotNearAPylon,You are not close enough to a pylon to teleport with the pylon network,★あなたはパイロンネットワークとテレポートのパイロンに近い十分ではありません
 Terraria.Localization.Content.en-US,Net,CannotTeleportToPylonBecauseNotEnoughNPCs,There are not enough villagers near that pylon to access it,★それにアクセスするために、そのパイロンの近くに十分な村人はありません
 Terraria.Localization.Content.en-US,Net,CannotTeleportToPylonBecauseNotEnoughNPCsAtCurrentPylon,There are not enough villagers near the current pylon,★現在のパイロンの近くに十分な村人はありません
