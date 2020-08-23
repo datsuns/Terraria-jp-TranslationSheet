@@ -15397,52 +15397,52 @@ Terraria.Localization.Content.en-US.Town,TownNPCMood_Angler,HateCrowded,I hate a
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Angler,LoveSpace,Yes! I get to be alone with all my fish!,★はい！私はすべての魚と一人であることを得ます！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Angler,LikeBiome,"Why is {BiomeName} my favorite place to go? It has tons of cool fish, duh!",★なぜ、どこへ行く {BiomeName} 私のお気に入りの場所はありますか？それは当たり前、クールな魚のトンを持っています！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Angler,LoveBiome,I love {BiomeName}.,★私の愛 {BiomeName} 。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Angler,DislikeBiome,"Did you hit your head? Duh, {BiomeName} doesn't have fish!",★あなたの頭を打っていましたか？おやおや、{BiomeName}は魚を持っていません！
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Angler,HateBiome,"Hey stupid, the fish here in {BiomeName} are all trying to kill me!",★ちょっと愚かな、ここで{}内BiomeName魚はすべて私を殺すためにしようとしています！
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Angler,LikeNPC,"{NPCName} actually knows what they're doing, unlike some OTHER people! I kinda like that!",★ {NPCName}は、実際に彼らはいくつかの他の人とは違って、やっていることを知っています！ちょっとそのような私！
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Angler,LoveNPC,I love being around {NPCName}.,★私は{} NPCNameの周りにいるのが大好きです。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Angler,DislikeNPC,I dislike {NPCName}.,★Iは{NPCName}を嫌います。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Angler,HateNPC,"I hate {NPCName}, and anyone else who treats me like a child!",★私は{NPCName}を嫌い、と誰が誰の子供のように私を扱います！
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Angler,DislikeBiome,"Did you hit your head? Duh, {BiomeName} doesn't have fish!",★あなたの頭を打っていましたか？おやおや、 {BiomeName} は魚を持っていません！
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Angler,HateBiome,"Hey stupid, the fish here in {BiomeName} are all trying to kill me!",★ちょっと愚かな、ここで {BiomeName} 内魚はすべて私を殺すためにしようとしています！
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Angler,LikeNPC,"{NPCName} actually knows what they're doing, unlike some OTHER people! I kinda like that!",★ {NPCName} は、実際に彼らはいくつかの他の人とは違って、やっていることを知っています！ちょっとそのような私！
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Angler,LoveNPC,I love being around {NPCName}.,★私は {NPCName} の周りにいるのが大好きです。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Angler,DislikeNPC,I dislike {NPCName}.,★私は {NPCName} を嫌います。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Angler,HateNPC,"I hate {NPCName}, and anyone else who treats me like a child!",★私は {NPCName} を嫌い、と誰が誰の子供のように私を扱います！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Stylist,Content,I'm feeling fresh today.,★今日は新鮮な感じ。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Stylist,NoHome,"Sorry hun, I can't style hair without a place to set up my station.",★申し訳ありませんがフン、私はスタイルの髪場所ずに私のステーションを設定することはできません。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Stylist,FarFromHome,I'm too far from my tools...,★私はあまりにも遠く、私のツールからね...
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Stylist,DislikeCrowded,"Am I hearing spiders? Oh, just noisy neighbors, I don't like that.",★私はクモを聞いていますか？ああ、ただうるさい隣人は、私は好きではありません。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Stylist,HateCrowded,"I absolutely cannot stand having so many people living around me, I can't focus.",★私は絶対に私の周りに住んでいるので、多くの人が、私は集中することができない持っ立つことはできません。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Stylist,LoveSpace,"Lovely, I get to keep to myself and study my technique without distraction.",★ラブリーは、私は自分自身を守ると邪魔することなく、自分の技術を学ぶために得ます。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Stylist,LikeBiome,"It's nice, calm atmosphere for cutting hair in {BiomeName}.",★これは、{} BiomeNameで髪をカットするための素敵な、落ち着いた雰囲気です。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Stylist,LoveBiome,I love {BiomeName}.,★私の愛{} BiomeName。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Stylist,DislikeBiome,"Hun, I don't like it here in {BiomeName}, how can anyone show off their hair when it's so cold?",★フン、私はここでそれは寒いそうだ自分の髪オフどのように缶誰ショー{} BiomeName、でそれのようではないですか？
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Stylist,HateBiome,"Ugh, {BiomeName} is causing severe damage to my hair!",★うわ、{BiomeNameは}私の髪に深刻な被害を引き起こしています！
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Stylist,LikeNPC,{NPCName} is strong and mysterious. I like that.,★ {NPCName}が強く、神秘的です。私はすきです。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Stylist,LoveNPC,{NPCName} is quite the looker... so exotic... I think I'm in love...,★ {NPCName}はかなり見物人である...ので、エキゾチックな...私は、私は恋にだと思います...
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Stylist,DislikeNPC,"I tried to work on {NPCName}, but was rudely rejected, I don't like stubborn people!",★私は頑固な人好きではない、{} NPCName上で動作するようにしようとしたが、ぶしつけに拒否されました！
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Stylist,HateNPC,"I hate {NPCName}, how can you literally NOT grow hair?",★私はどのようにあなたが文字通り髪を育てることができない、{NPCName}を嫌い？
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Stylist,LikeBiome,"It's nice, calm atmosphere for cutting hair in {BiomeName}.",★これは、 {BiomeName} で髪をカットするための素敵な、落ち着いた雰囲気です。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Stylist,LoveBiome,I love {BiomeName}.,★私の愛 {BiomeName} 。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Stylist,DislikeBiome,"Hun, I don't like it here in {BiomeName}, how can anyone show off their hair when it's so cold?",★フン、私はここでそれは寒いそうだ自分の髪オフどのように缶誰ショー {BiomeName} 、でそれのようではないですか？
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Stylist,HateBiome,"Ugh, {BiomeName} is causing severe damage to my hair!",★うわ、 {BiomeName} は私の髪に深刻な被害を引き起こしています！
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Stylist,LikeNPC,{NPCName} is strong and mysterious. I like that.,★ {NPCName} が強く、神秘的です。私はすきです。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Stylist,LoveNPC,{NPCName} is quite the looker... so exotic... I think I'm in love...,★ {NPCName} はかなり見物人である...ので、エキゾチックな...私は、私は恋にだと思います...
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Stylist,DislikeNPC,"I tried to work on {NPCName}, but was rudely rejected, I don't like stubborn people!",★私は頑固な人好きではない、 {NPCName} 上で動作するようにしようとしたが、ぶしつけに拒否されました！
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Stylist,HateNPC,"I hate {NPCName}, how can you literally NOT grow hair?",★私はどのようにあなたが文字通り髪を育てることができない、 {NPCName} を嫌い？
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Demolitionist,Content,"Well, I don't feel like exploding today!",★さて、今日は爆発するように感じることはありません！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Demolitionist,NoHome,"I don't have a place to live, did I blow up my last one?",★私は私が私の最後の1を爆破なかった、住む場所を持っていませんか？
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Demolitionist,FarFromHome,"I need more BOOM, I think I left it way back at home.",★私は私が帰り、自宅でそれを残したと思いますが、より多くのBOOMを必要としています。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Demolitionist,DislikeCrowded,"I dislike the number of people here, for safety reasons, of course...",★私はもちろん、安全上の理由から、ここの人々の数を嫌い...
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Demolitionist,HateCrowded,"Too many people around! One mistake making dynamite, and... well, they'd HATE the outcome!",★あまりにも多くの人々の周りに！ 1つのミスダイナマイトを作り、そして...よく、彼らは結果を憎みます！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Demolitionist,LoveSpace,"Ah, no one around - I can test new bombs without creating a graveyard for limbs!",★ああ、周りに誰も - 私は手足のために墓地を作成せずに、新たな爆弾をテストすることができます！
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Demolitionist,LikeBiome,"Dwarves are naturally drawn to {BiomeName}, it's in our blood!",★ドワーフが自然に{} BiomeNameに描かれ、それが私たちの血液中です！
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Demolitionist,LoveBiome,I love {BiomeName}.,★私の愛{} BiomeName。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Demolitionist,DislikeBiome,"I can't stand {BiomeName}, my fuses have trouble igniting here!",★私は私のヒューズがトラブルここで点火を持って、{BiomeName}を我慢できません！
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Demolitionist,HateBiome,"It reeks of death and malice in {BiomeName}, I wanna blasts holes everywhere!",★これは、{} BiomeNameに死亡し、悪意のにおい、私はどこにでもブラスト穴をしたいです！
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Demolitionist,LikeNPC,"{NPCName} is a good friend I like, helps me load the gunpowder!",★ {NPCNameは}私が好きな良い友人で、私は火薬を読み込むことができます！
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Demolitionist,LoveNPC,I love how well {NPCName} can handle a container of fireball!,★私は火の玉のコンテナを扱うことができるどれだけ{} NPCName大好き！
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Demolitionist,DislikeNPC,I wanna strap {NPCName} to a rocket and watch what happens!,★私は、ロケットに{NPCNameを}ストラップと何が起こるか見たいです！
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Demolitionist,HateNPC,I hate being around {NPCName}.,★Iは{NPCName}周りにいる嫌い。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Demolitionist,LikeBiome,"Dwarves are naturally drawn to {BiomeName}, it's in our blood!",★ドワーフが自然に {BiomeName} に描かれ、それが私たちの血液中です！
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Demolitionist,LoveBiome,I love {BiomeName}.,★私の愛 {BiomeName} 。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Demolitionist,DislikeBiome,"I can't stand {BiomeName}, my fuses have trouble igniting here!",★私は私のヒューズがトラブルここで点火を持って、 {BiomeName} を我慢できません！
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Demolitionist,HateBiome,"It reeks of death and malice in {BiomeName}, I wanna blasts holes everywhere!",★これは、 {BiomeName} に死亡し、悪意のにおい、私はどこにでもブラスト穴をしたいです！
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Demolitionist,LikeNPC,"{NPCName} is a good friend I like, helps me load the gunpowder!",★ {NPCName} は私が好きな良い友人で、私は火薬を読み込むことができます！
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Demolitionist,LoveNPC,I love how well {NPCName} can handle a container of fireball!,★私は火の玉のコンテナを扱うことができるどれだけ {NPCName} 大好き！
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Demolitionist,DislikeNPC,I wanna strap {NPCName} to a rocket and watch what happens!,★私は、ロケットに {NPCName} をストラップと何が起こるか見たいです！
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Demolitionist,HateNPC,I hate being around {NPCName}.,★私は {NPCName} 周りにいる嫌い。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Dryad,Content,"All is peaceful, don't mess it up.",★すべては、混乱それを平和ではないんです。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Dryad,NoHome,"All of nature may be my home, but a house would treat me well.",★自然のすべてが私の家かもしれないが、家はよく私を扱うだろう。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Dryad,FarFromHome,A flower doesn't grow very well so far away from its roots!,★花はとても遠く、そのルーツから非常によく成長しません！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Dryad,DislikeCrowded,"Is this area becoming rather dense, or is it just me? I dislike the feeling...",★このエリアはかなり密になりつつある、またはそれは私だけでしょうか？私は気持ちを嫌い...
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Dryad,HateCrowded,"So many others crammed into one spot? The grass is doomed, I hate it!",★だから、多くの人は、1つのスポットに詰め込ま？草が運命にある、私はそれを憎みます！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Dryad,LoveSpace,Solitude is sometimes good - there's room to grow and to breathe.,★孤独は時々良いです - 成長すると息をする余地があります。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Dryad,LikeBiome,I kissed a tree in {BiomeName} and I liked it.,★私は{} BiomeNameのツリーにキスをし、私はそれが好き。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Dryad,LoveBiome,I love {BiomeName}.,★私の愛{} BiomeName。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Dryad,LikeBiome,I kissed a tree in {BiomeName} and I liked it.,★私は {BiomeName} のツリーにキスをし、私はそれが好き。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Dryad,LoveBiome,I love {BiomeName}.,★私の愛 {BiomeName} 。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Dryad,DislikeBiome,I rather dislike how {BiomeName} is so devoid of life.,★私はむしろ{BiomeName}は人生のように欠けているか嫌い。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Dryad,HateBiome,I am severely offended by my surroundings - {BiomeName} is my mortal enemy!,★私はひどく私の周りでおこっています -  {BiomeNameは}私の死ぬべき敵であります！
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Dryad,LikeNPC,I like that {NPCName} resonates with every fiber of my being!,★I私の存在のあらゆる繊維と{} NPCName共振するように！
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Dryad,LoveNPC,I love being around {NPCName}.,★私は{} NPCNameの周りにいるのが大好きです。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Dryad,LikeNPC,I like that {NPCName} resonates with every fiber of my being!,★I私の存在のあらゆる繊維と {NPCName} 共振するように！
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Dryad,LoveNPC,I love being around {NPCName}.,★私は {NPCName} の周りにいるのが大好きです。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Dryad,DislikeNPC,I don't like that {NPCName} has no respect for other beings.,★私は{NPCName}が他の人間に対する敬意を持っていないことを好きではありません。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Dryad,HateNPC,I hate {NPCName}'s destructive habits towards nature!,★私は自然に向けて、{NPCName}の破壊的な習慣を憎みます！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_DD2Bartender,Content,I'm livin' the dream.,★私は夢をリヴィンています。
@@ -15451,10 +15451,10 @@ Terraria.Localization.Content.en-US.Town,TownNPCMood_DD2Bartender,FarFromHome,I 
 Terraria.Localization.Content.en-US.Town,TownNPCMood_DD2Bartender,DislikeCrowded,Not sure I like living next door to so many people.,★これほど多くの人の隣に住んでいるようなわからない私。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_DD2Bartender,HateCrowded,"Hate to say it, but I rather hate overcrowded quarters.",★それを言うことを憎むが、私はむしろ過密四半期を憎みます。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_DD2Bartender,LoveSpace,"Finally, some peace and quiet... as a bartender this is a luxury!",★最後に、いくつかの平和と静かな...バーテンダーとして、これは贅沢です！
-Terraria.Localization.Content.en-US.Town,TownNPCMood_DD2Bartender,LikeBiome,"Ahh, {BiomeName}... I like it here, it's got character.",★ああ、{} BiomeName ...私ここにそれのように、それは文字を持っています。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_DD2Bartender,LoveBiome,I love {BiomeName}.,★私の愛{} BiomeName。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_DD2Bartender,DislikeBiome,"I'm not a fan of {BiomeName}, it's bitter.",★私は{} BiomeNameのファンではない、それは苦いです。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_DD2Bartender,HateBiome,"Is this another invasion? Oh, it's just {BiomeName} - even worse!",★これは別の侵略ですか？さらに悪いことに - ああ、それは単に{} BiomeNameです！
+Terraria.Localization.Content.en-US.Town,TownNPCMood_DD2Bartender,LikeBiome,"Ahh, {BiomeName}... I like it here, it's got character.",★ああ、 {BiomeName}  ...私ここにそれのように、それは文字を持っています。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_DD2Bartender,LoveBiome,I love {BiomeName}.,★私の愛 {BiomeName} 。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_DD2Bartender,DislikeBiome,"I'm not a fan of {BiomeName}, it's bitter.",★私は {BiomeName} のファンではない、それは苦いです。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_DD2Bartender,HateBiome,"Is this another invasion? Oh, it's just {BiomeName} - even worse!",★これは別の侵略ですか？さらに悪いことに - ああ、それは単に {BiomeName} です！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_DD2Bartender,LikeNPC,"I like {NPCName}, it shows you cannot always judge a person by their... origins.",★I {NPCName}のような、それはあなたが常に彼らの...起源で人を判断することはできませんを示しています。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_DD2Bartender,LoveNPC,"{NPCName} is one crazy little drinker, I love it!",★ {NPCName}は1クレイジー少し飲む、私はそれを愛するです！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_DD2Bartender,DislikeNPC,"I rather dislike {NPCName}, they put out similar vibes as some of the dark things from Etheria.",★私はむしろ嫌い{NPCName}は、彼らがEtheriaから暗いものの一部として同様のバイブを出します。
@@ -15466,12 +15466,12 @@ Terraria.Localization.Content.en-US.Town,TownNPCMood_ArmsDealer,DislikeCrowded,"
 Terraria.Localization.Content.en-US.Town,TownNPCMood_ArmsDealer,HateCrowded,"Hey, I can't do what I do with so many people watchin' me.",★ねえ、私は非常に多くの人が私を見つめて何を行うことはできません。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_ArmsDealer,LoveSpace,"This is what I'm talkin' about, privacy!",★これは私が、プライバシー、についてのtalkin'だものです！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_ArmsDealer,LikeBiome,"Ya know, {BiomeName} is secluded and great for business, if you catch my drift.",★あなたが私のドリフトをキャッチした場合雅ノウハウは、{BiomeName}は、人里離れやビジネスに最適です。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_ArmsDealer,LoveBiome,I love {BiomeName}.,★私の愛{} BiomeName。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_ArmsDealer,LoveBiome,I love {BiomeName}.,★私の愛 {BiomeName} 。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_ArmsDealer,DislikeBiome,"Yeah, no, {BiomeName} makes me very uncomfortable.",★うん、いや、{BiomeNameは}私は非常に不快になります。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_ArmsDealer,HateBiome,I hate {BiomeName} - hunting isn't quite as fun if you're the prey!,★私は{BiomeName}を嫌い - あなたは獲物なら狩りは非常に楽しいようではありません！
-Terraria.Localization.Content.en-US.Town,TownNPCMood_ArmsDealer,LikeNPC,"Yeah, I like {NPCName}, wicked cool person.",★ええ、私は{} NPCName、邪悪なクールな人が好きです。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_ArmsDealer,LoveNPC,"Think {NPCName} ever, ya know, checks me out?",★ {} NPCNameこれまで、屋知っている、チェック私を思いますか？
-Terraria.Localization.Content.en-US.Town,TownNPCMood_ArmsDealer,DislikeNPC,"I don't really like {NPCName} bein' on my turf, ya know?",★私はyaは知っている、本当に私の芝生上の{} NPCNameバインのようではないですか？
+Terraria.Localization.Content.en-US.Town,TownNPCMood_ArmsDealer,LikeNPC,"Yeah, I like {NPCName}, wicked cool person.",★ええ、私は {NPCName} 、邪悪なクールな人が好きです。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_ArmsDealer,LoveNPC,"Think {NPCName} ever, ya know, checks me out?",★ {NPCName} これまで、屋知っている、チェック私を思いますか？
+Terraria.Localization.Content.en-US.Town,TownNPCMood_ArmsDealer,DislikeNPC,"I don't really like {NPCName} bein' on my turf, ya know?",★私はyaは知っている、本当に私の芝生上の {NPCName} バインのようではないですか？
 Terraria.Localization.Content.en-US.Town,TownNPCMood_ArmsDealer,HateNPC,I'd REALLY like to use {NPCName} as a range target sometime.,★本当に範囲ターゲットいつかとしての使用{NPCName}たいです。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_GoblinTinkerer,Content,Feelings are currently nominal.,★感情は現在、名目です。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_GoblinTinkerer,NoHome,"Goblins don't normally need nice homes, but I'm not like most goblins.",★ゴブリンは、通常、素敵な家を必要としませんが、私はほとんどのゴブリンのようではないです。
@@ -15480,8 +15480,8 @@ Terraria.Localization.Content.en-US.Town,TownNPCMood_GoblinTinkerer,DislikeCrowd
 Terraria.Localization.Content.en-US.Town,TownNPCMood_GoblinTinkerer,HateCrowded,"This crowding triggers bad memories of goblin war camps, I really hate it.",★この混雑トリガーはゴブリン戦争キャンプの悪い思い出は、私は本当にそれを嫌います。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_GoblinTinkerer,LoveSpace,"Perfect, the lack of annoying neighbors adequately meet my needs.",★パーフェクト、迷惑な隣人の欠如が適切に私のニーズを満たしています。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_GoblinTinkerer,LikeBiome,"Ahh, {BiomeName} is a nice, quiet place to construct more gadgets. Major like-age!",★ああ、{BiomeNameは}より多くのガジェットを構築するための良い、静かな場所です。主な同じような年齢！
-Terraria.Localization.Content.en-US.Town,TownNPCMood_GoblinTinkerer,LoveBiome,I love {BiomeName}.,★私の愛{} BiomeName。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_GoblinTinkerer,DislikeBiome,"I don't like {BiomeName}, it is filled with loud, annoying pests that get in the way of my work!",★私はそれが私の仕事の邪魔に大声で、迷惑な害虫で満たされ、{} BiomeName好きではありません！
+Terraria.Localization.Content.en-US.Town,TownNPCMood_GoblinTinkerer,LoveBiome,I love {BiomeName}.,★私の愛 {BiomeName} 。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_GoblinTinkerer,DislikeBiome,"I don't like {BiomeName}, it is filled with loud, annoying pests that get in the way of my work!",★私はそれが私の仕事の邪魔に大声で、迷惑な害虫で満たされ、{BiomeName} 好きではありません！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_GoblinTinkerer,HateBiome,"I hate {BiomeName}, I cannot put merge these trinkets into one piece if I'm fighting to keep myself that way!",★私はそのように自分自身を維持するために戦っている場合は1枚にこれらの装身具をマージ置くことができない、{BiomeName}を憎みます！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_GoblinTinkerer,LikeNPC,"{NPCName} understands how fun it is to mix things together, I can respect that!",★ {NPCNameは}それは一緒に物事をミックスするのがいかに楽しい理解し、私はそれを尊重することができます！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_GoblinTinkerer,LoveNPC,"{NPCName} makes my cardiac core function improperly, it appears I love how that feels!",★ {NPCName}が不適切に私の心コア機能になり、私がどのようにと感じ大好き表示されます！
@@ -15494,26 +15494,26 @@ Terraria.Localization.Content.en-US.Town,TownNPCMood_WitchDoctor,DislikeCrowded,
 Terraria.Localization.Content.en-US.Town,TownNPCMood_WitchDoctor,HateCrowded,"Too many of your kind are gathering too near, growing much malice in my soul.",★あなたの種類の数が多すぎは私の魂に多くの悪意を成長させ、あまりにも近くに集まっています。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_WitchDoctor,LoveSpace,"Strong energy flows through unimpeded by neighboring presence, very pleasant.",★強力なエネルギーは非常に楽しい、存在を隣接によって妨げられることなく流れます。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_WitchDoctor,LikeBiome,"I cannot fathom existing elsewhere, {BiomeName} is the center of my voodoo spirits.",★私は尋他の場所に存在しないことができ、{BiomeNameは}私のブードゥー教の精神の中心です。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_WitchDoctor,LoveBiome,I love {BiomeName}.,★私の愛{} BiomeName。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_WitchDoctor,DislikeBiome,"The magicks of {BiomeName} are of oppression, not true purity, my heart and soul are enraged.",★ {} BiomeNameのmagicksは、弾圧の真の純度はありません、私の心と魂が激怒しています。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_WitchDoctor,HateBiome,I sense a grim evil pervading the land and all living things in {BiomeName}.,★私は{} BiomeNameの土地とすべての生き物を浸透し、厳しい悪を感じます。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_WitchDoctor,LoveBiome,I love {BiomeName}.,★私の愛{BiomeName} 。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_WitchDoctor,DislikeBiome,"The magicks of {BiomeName} are of oppression, not true purity, my heart and soul are enraged.",★ {BiomeName} のmagicksは、弾圧の真の純度はありません、私の心と魂が激怒しています。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_WitchDoctor,HateBiome,I sense a grim evil pervading the land and all living things in {BiomeName}.,★私は {BiomeName} の土地とすべての生き物を浸透し、厳しい悪を感じます。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_WitchDoctor,LikeNPC,"{NPCName} is a kindred spirit of nature, my soul is at peace in their presence.",★ {NPCName}は、自然の親族の精神で、私の魂は、彼らの存在下で、平和です。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_WitchDoctor,LoveNPC,I love being around {NPCName}.,★私は{} NPCNameの周りにいるのが大好きです。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_WitchDoctor,DislikeNPC,I dislike the practices of {NPCName}. True healing cannot come from metal and glass.,★私は{} NPCNameの慣行を嫌います。真の癒しは、金属やガラスから来ることができません。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_WitchDoctor,HateNPC,Fury fills my being as abominations sprout from tainted earth - I speak of {NPCName}.,★憎むべきは、汚染された地球から発芽としてフューリーは私ビーイングを埋める - 私は{} NPCName話します。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_WitchDoctor,LoveNPC,I love being around {NPCName}.,★私は {NPCName} の周りにいるのが大好きです。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_WitchDoctor,DislikeNPC,I dislike the practices of {NPCName}. True healing cannot come from metal and glass.,★私は {NPCName} NPCNameの慣行を嫌います。真の癒しは、金属やガラスから来ることができません。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_WitchDoctor,HateNPC,Fury fills my being as abominations sprout from tainted earth - I speak of {NPCName}.,★憎むべきは、汚染された地球から発芽としてフューリーは私ビーイングを埋める - 私は {NPCName} 話します。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Clothier,Content,"What's normal, anyways?",★とにかく、通常は何ですか？
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Clothier,NoHome,No home at all? I will not be subjected to criminal abuse!,★まったく自宅ん？私は犯罪者虐待にさらされることはありません！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Clothier,FarFromHome,"It's a highly tedious procedure, cranking out a spyglass and looking for my house.",★これは、スパイグラスを生み出し、私の家を探して、非常に面倒な手順です。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Clothier,DislikeCrowded,The local population is like living with dead weight on my back.,★地元住民は、私の背中に自重との生活のようなものです。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Clothier,HateCrowded,Overcrowding is as overcrowding does.,★過密がするように過密です。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Clothier,LoveSpace,"I'm not a popular man, but I know what tranquility is.",★私は人気のある男ではないんだけど、私は静けさが何であるかを知っています。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Clothier,LikeBiome,"Seeing is believing, but sometimes the most likeable things are in {BiomeName}.",★シーイングは信じているが、時には最も好感の持てるものは、{} BiomeNameです。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Clothier,LoveBiome,I love {BiomeName}.,★私の愛{} BiomeName。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Clothier,DislikeBiome,There just aren't enough dark rooms in {BiomeName}.,★ただ{} BiomeNameに十分な暗い部屋ではありません。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Clothier,HateBiome,"My soul feels torn here in {BiomeName}, as if my very being is at war between good and evil.",★ {} BiomeNameにここに引き裂かれた私の魂を感じるが、私は非常にされているかのように善と悪の間の戦争です。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Clothier,LikeNPC,"I can't quite place it, but I find {NPCName} fascinating.",★私は非常にそれを置くことはできませんが、私は{} NPCName魅力的見つけます。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Clothier,LikeBiome,"Seeing is believing, but sometimes the most likeable things are in {BiomeName}.",★シーイングは信じているが、時には最も好感の持てるものは、{BiomeName} です。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Clothier,LoveBiome,I love {BiomeName}.,★私の愛 {BiomeName} 。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Clothier,DislikeBiome,There just aren't enough dark rooms in {BiomeName}.,★ただ {BiomeName} に十分な暗い部屋ではありません。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Clothier,HateBiome,"My soul feels torn here in {BiomeName}, as if my very being is at war between good and evil.",★ {BiomeName} にここに引き裂かれた私の魂を感じるが、私は非常にされているかのように善と悪の間の戦争です。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Clothier,LikeNPC,"I can't quite place it, but I find {NPCName} fascinating.",★私は非常にそれを置くことはできませんが、私は {NPCName} 魅力的見つけます。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Clothier,LoveNPC,{NPCName}? I hadn't seen anything so delicious in my life.,★ {NPCName}？私は私の人生でとてもおいしいものを見ていませんでした。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Clothier,DislikeNPC,"For some reason, being around {NPCName} makes me feel uneasy.",★何らかの理由で、{} NPCName周りにあることは、私は不安に感じさせます。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Clothier,DislikeNPC,"For some reason, being around {NPCName} makes me feel uneasy.",★何らかの理由で、{NPCName} 周りにあることは、私は不安に感じさせます。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Clothier,HateNPC,I hate {NPCName} and I don't know why.,★私は{NPCName}を嫌い、私は理由を知りません。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Mechanic,Content,"Everything's working correctly - oh, me? Yeah I'm fine!",★ああ、私を - すべてが正常に働いていますか？うん、私は大丈夫ですよ！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Mechanic,NoHome,I need some sort of structure to run these wires through.,★私は、を介してこれらの配線を実行するための構造のいくつかの並べ替えを必要とします。
@@ -15522,9 +15522,9 @@ Terraria.Localization.Content.en-US.Town,TownNPCMood_Mechanic,DislikeCrowded,The
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Mechanic,HateCrowded,"I'm going to need a way bigger power source for THIS MANY people, I hate it!",★私はこの多くの人々のための方法より大きな電源を必要とするつもりです、私はそれを嫌います！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Mechanic,LoveSpace,"Perfect, no one is in the way for building infrastructure.",★パーフェクトは、誰もがインフラストラクチャを構築するための方法ではありません。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Mechanic,LikeBiome,"I like {BiomeName}, machines don't overheat here, and the energy flow is efficient.",★ {BiomeName}のようなI、マシンが過熱ここではない、とエネルギーの流れが効率的です。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Mechanic,LoveBiome,I love {BiomeName}.,★私の愛{} BiomeName。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Mechanic,DislikeBiome,"I don't like {BiomeName}, it reminds me of a traumatic experience!",★私は{} BiomeName好きではない、それは外傷性経験のことを思い出します！
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Mechanic,HateBiome,"I feel extremely uncomfortable in {BiomeName}, as if creeping eyes are always watching me.",★忍び寄る目はいつも私を見ているかのように私は、{} BiomeNameで非常に不快に感じます。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Mechanic,LoveBiome,I love {BiomeName}.,★私の愛 {BiomeName} 。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Mechanic,DislikeBiome,"I don't like {BiomeName}, it reminds me of a traumatic experience!",★私は {BiomeName} 好きではない、それは外傷性経験のことを思い出します！
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Mechanic,HateBiome,"I feel extremely uncomfortable in {BiomeName}, as if creeping eyes are always watching me.",★忍び寄る目はいつも私を見ているかのように私は、{BiomeName} で非常に不快に感じます。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Mechanic,LikeNPC,I feel like I understand {NPCName} better than anyone else.,★私はより良い他の誰よりも{NPCName}を理解ような気がします。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Mechanic,LoveNPC,"Umm... {NPCName} makes my heart flutter, I need to get that checked!",★うーん{NPCName}は私の心のフラッタを行い、私がチェックすることを取得する必要があります！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Mechanic,DislikeNPC,I don't really like that {NPCName} won't leave me alone!,★私は本当に{NPCName}は一人で私を残していないことを好きではありません！
@@ -15535,40 +15535,40 @@ Terraria.Localization.Content.en-US.Town,TownNPCMood_TaxCollector,FarFromHome,Ba
 Terraria.Localization.Content.en-US.Town,TownNPCMood_TaxCollector,DislikeCrowded,"I'll have you know, I dislike neighbors!",★私は隣人を嫌い、あなたが知っている必要があります！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_TaxCollector,HateCrowded,"Go tell all these miserable poor freeloaders to scram, I hate crowds.",★スクラムにすべてのこれらの悲惨な貧しいフリーローダーを教えて行く、私は群衆を嫌い。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_TaxCollector,LoveSpace,"Finally, isolation from all these miserable peasants!",★最後に、これらすべての悲惨な農民から隔離！
-Terraria.Localization.Content.en-US.Town,TownNPCMood_TaxCollector,LikeBiome,Living in {BiomeName} forces people to stay indoors and leave me alone. I find that pleasant.,★滞在屋内に{} BiomeName力の人々に住んでいると一人で私を残して。私はそれが楽しい見つけます。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_TaxCollector,LoveBiome,I love {BiomeName}.,★私の愛{} BiomeName。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_TaxCollector,DislikeBiome,"What kind of irritating place is {BiomeName}? Poppycock, I tell you!",★ {} BiomeName場所を刺激するのはどのようなのですか？ Poppycockは、私はあなたを教えて！
+Terraria.Localization.Content.en-US.Town,TownNPCMood_TaxCollector,LikeBiome,Living in {BiomeName} forces people to stay indoors and leave me alone. I find that pleasant.,★滞在屋内に {BiomeName} 力の人々に住んでいると一人で私を残して。私はそれが楽しい見つけます。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_TaxCollector,LoveBiome,I love {BiomeName}.,★私の愛 {BiomeName} 。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_TaxCollector,DislikeBiome,"What kind of irritating place is {BiomeName}? Poppycock, I tell you!",★ {BiomeName} 場所を刺激するのはどのようなのですか？ Poppycockは、私はあなたを教えて！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_TaxCollector,HateBiome,"Even for my standard, {BiomeName} is beyond miserable! Bah!",★でも、私の標準のために、{BiomeName}は悲惨を超えています！フン！
-Terraria.Localization.Content.en-US.Town,TownNPCMood_TaxCollector,LikeNPC,"Exuberant people tend to give me a headache, but somehow I actually like {NPCName}. I must be losing my mind!",★あふれんばかりの人は私に頭痛を与える傾向があるが、どういうわけか、私は実際には{} NPCNameのような。私は私の心を失うする必要があります！
+Terraria.Localization.Content.en-US.Town,TownNPCMood_TaxCollector,LikeNPC,"Exuberant people tend to give me a headache, but somehow I actually like {NPCName}. I must be losing my mind!",★あふれんばかりの人は私に頭痛を与える傾向があるが、どういうわけか、私は実際には {NPCName} のような。私は私の心を失うする必要があります！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_TaxCollector,LoveNPC,I highly admire {NPCName}. Anyone who knows the true value of money earns my utmost respect!,★私は非常{NPCName}を賞賛します。お金の真の価値を知っている誰もが私の最大限の敬意を稼いでいます！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_TaxCollector,DislikeNPC,"{NPCName} is just too noisy, away with them and their ilk!",★ {NPCName}は離れて彼らと彼らの同類で、あまりにもうるさいです！
-Terraria.Localization.Content.en-US.Town,TownNPCMood_TaxCollector,HateNPC,I loathe the very existence of {NPCName}! What kind of lunatic just gives things away for free?,★私は{} NPCNameの存在そのものを嫌います！狂人はどのようなだけ無料で離れて物事を与えますか？
+Terraria.Localization.Content.en-US.Town,TownNPCMood_TaxCollector,HateNPC,I loathe the very existence of {NPCName}! What kind of lunatic just gives things away for free?,★私は {NPCName} の存在そのものを嫌います！狂人はどのようなだけ無料で離れて物事を与えますか？
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Pirate,Content,Yarr. I be in ship shape!,★Yarr。私は、船の形状であっても！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Pirate,NoHome,"The open sea's me true home, but if I be landlocked for awhile... well I need me shelter, matey.",★オープン海は私の本当の家だが、私はしばらくの間内陸ことがあれば...よく私は、私は避難所相棒を必要としています。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Pirate,FarFromHome,Me bed and me rum be callin' me name back home.,★私はベッドと私は私が帰っに名前を付けるのcallin'にラム酒。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Pirate,DislikeCrowded,Avast! Too many landlubbers on me ship be foulin' my mood.,★アバスト！私にあまりにも多くのlandlubbersはfoulin'私の気分も出荷します。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Pirate,HateCrowded,Ye too hate the feelin' that a mutiny be comin'? Too many scallywags gettin' close to me quarters.,★あなたがたは、あまりにも反乱がやって来ることが気分が嫌い？あまりにも多くのscallywagsは近い私に四半期のgettin'。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Pirate,LoveSpace,"'Tis like having me very own galleon, matey!",★、私の相棒を非常に自身のガレオン船を持つLIKE」Tisの！
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Pirate,LikeBiome,"Hardy har har, matey, {BiomeName} is me true home!",★ハーディHAR HAR、相棒、{} BiomeName私は本当の家です！
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Pirate,LoveBiome,I love {BiomeName}.,★私の愛{} BiomeName。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Pirate,LikeBiome,"Hardy har har, matey, {BiomeName} is me true home!",★ハーディHAR HAR、相棒、{BiomeName} 私は本当の家です！
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Pirate,LoveBiome,I love {BiomeName}.,★私の愛 {BiomeName} 。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Pirate,DislikeBiome,"Argh, {BiomeName} be a bit cramped for me style, ye scurvy dog!",★なんてこった、{BiomeNameは}私のスタイル、あなたがた壊血病犬のために少し窮屈さ！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Pirate,HateBiome,"Arr, {BiomeName} be the foulest chunk 'o dry land ever traversed!",★編曲、{BiomeName}は、これまで横断乾いた土地O foulestチャンク」です！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Pirate,LikeNPC,Har Har! Melikes how {NPCName} brings ye best bottle o' rum.,★HAR HAR！ {NPCName}はラム酒「Oがた最高のボトルを持って来る方法をMelikes。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Pirate,LoveNPC,"Ahoy! Me takes {NPCName} under me wing, landlubber. Me love raisin' sea pups!",★アホイ！私は私の翼、新米の船員下{NPCName}をとります。私はレーズン海の子犬が大好き！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Pirate,DislikeNPC,"Ye know me don't like that {NPCName} tries to cut me beard, I've slit scurvy throats fer less!",★あなたがたは、私は{NPCNameは}私に髭をカットしようとすることを好きではない知っている、私はスリット壊血病喉FER少なくしました！
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Pirate,HateNPC,"Me want to make {NPCName} walk ye plank, sea dog! Hate the coddlin' and the dastardly smell!",★私は{} NPCName徒歩がた厚板、海の犬を作りたいです！ coddlin'と卑劣な匂いが嫌い！
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Pirate,HateNPC,"Me want to make {NPCName} walk ye plank, sea dog! Hate the coddlin' and the dastardly smell!",★私は {NPCName} 徒歩がた厚板、海の犬を作りたいです！ coddlin'と卑劣な匂いが嫌い！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Wizard,Content,I feel magical.,★私は不思議な感じ。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Wizard,NoHome,Where is my house? Where am I? Who are you? Who am I?,★私の家はどこですか？ここはどこ？あなたは誰？私は誰？
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Wizard,FarFromHome,I could have sworn my house was here somewhere...,★私は自分の家がどこかにここにあった宣誓している可能性が...
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Wizard,DislikeCrowded,Can some of these noisy people move further away? No? Ok.,★これらの騒々しい人々のいくつかは、さらに離れて移動することはできますか？番号？ OK。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Wizard,HateCrowded,This overcrowding is starting to dampen my magic! I think.,★この過密は私の魔法を減衰し始めています！おもう。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Wizard,LoveSpace,"Reminds me of the old days, practicing magic up in a tower in the middle of nowhere!",★どこの真ん中に塔に魔法を練習し、昔のことを思い出します！
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Wizard,LikeBiome,What's not to like about {BiomeName}? It has unicorns and rainbows.,★ {} BiomeNameについて好きには何がありませんか？それはユニコーンと虹を持っています。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Wizard,LoveBiome,I love {BiomeName}.,★私の愛{} BiomeName。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Wizard,DislikeBiome,"I dislike {BiomeName}, magic does not flow well in a place like this.",★私は、魔法がこのような場所でよく流れていない{} BiomeName嫌い。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Wizard,HateBiome,"The abominations in {BiomeName} disturb me, like the darkest form of magic.",★ {} BiomeNameで憎むべきは、魔法の最も暗い形のように、私を邪魔。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Wizard,LikeBiome,What's not to like about {BiomeName}? It has unicorns and rainbows.,★ {BiomeName} について好きには何がありませんか？それはユニコーンと虹を持っています。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Wizard,LoveBiome,I love {BiomeName}.,★私の愛{BiomeName} 。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Wizard,DislikeBiome,"I dislike {BiomeName}, magic does not flow well in a place like this.",★私は、魔法がこのような場所でよく流れていない{BiomeName} 嫌い。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Wizard,HateBiome,"The abominations in {BiomeName} disturb me, like the darkest form of magic.",★ {BiomeName} で憎むべきは、魔法の最も暗い形のように、私を邪魔。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Wizard,LikeNPC,"{NPCName} and I share a very long history, I like the mutual wisdom.",★ {NPCName}と私は非常に長い歴史を共有するには、私は相互の知恵が好きです。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Wizard,LoveNPC,I love that there's a lot to talk about with {NPCName}.,★私は{} NPCNameと話すことたくさんありますことを愛します。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Wizard,LoveNPC,I love that there's a lot to talk about with {NPCName}.,★私は {NPCName} と話すことたくさんありますことを愛します。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Wizard,DislikeNPC,"{NPCName} dabbles in things that shouldn't be disturbed, and I don't like that.",★ {NPCName}が邪魔してはならないものでdabbles、と私はそれが好きではありません。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Wizard,HateNPC,That loathsome {NPCName} is a complete and total abomination to magic!,★その忌まわしい{NPCName}は魔法への完全かつ合計醜態です！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Steampunker,Content,I am jolly good.,★私は愉快に良いと思います。
@@ -15577,12 +15577,12 @@ Terraria.Localization.Content.en-US.Town,TownNPCMood_Steampunker,FarFromHome,"I'
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Steampunker,DislikeCrowded,"I dinnae like being surrounded by folk, much.",★私はずっと、フォークに囲まれているようdinnae。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Steampunker,HateCrowded,"Oi, I absolutely hate crowded quarters!",★大井、私は絶対に混雑四半期を憎みます！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Steampunker,LoveSpace,Plenty o' room just for me and some good steam engines!,★たっぷりちょうど私のための部屋といくつかの良い蒸気機関O」！
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Steampunker,LikeBiome,"I prefer the wide open spaces here in {BiomeName}, great for jetpack joyrides!",★私はジェットパックjoyridesため、{} BiomeNameにここに偉大に広いオープンスペースを好みます！
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Steampunker,LoveBiome,I love {BiomeName}.,★私の愛{} BiomeName。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Steampunker,DislikeBiome,The shrubbery and mess of {BiomeName} really grinds my gears!,★ {} BiomeNameの植え込みや混乱は本当に私の歯車を磨きます！
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Steampunker,LikeBiome,"I prefer the wide open spaces here in {BiomeName}, great for jetpack joyrides!",★私はジェットパックjoyridesため、{BiomeName} にここに偉大に広いオープンスペースを好みます！
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Steampunker,LoveBiome,I love {BiomeName}.,★私の愛 {BiomeName} 。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Steampunker,DislikeBiome,The shrubbery and mess of {BiomeName} really grinds my gears!,★ {BiomeName} の植え込みや混乱は本当に私の歯車を磨きます！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Steampunker,HateBiome,"Truly, {BiomeName} is uncultured and unsightly - nevermind perilous!",★用事危険な - 本当に、{BiomeName}は未培養し、見苦しいです！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Steampunker,LikeNPC,{NPCName} is a likeable sort who helps me spruce up my inventions.,★ {NPCNameは}私は私の発明を整えるのに役立ちます好感の持てるようなものです。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Steampunker,LoveNPC,"I love how unique and interesting {NPCName} truly is, remarkable!",★私は驚くべき、本当にどのようにユニークで面白い{} NPCName大好き！
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Steampunker,LoveNPC,"I love how unique and interesting {NPCName} truly is, remarkable!",★私は驚くべき、本当にどのようにユニークで面白い {NPCName} 大好き！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Steampunker,DislikeNPC,{NPCName} is too otherworldly! I dinnae like them much.,★ {NPCName}はあまりにも別世界です！私はずっと彼らのようdinnae。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Steampunker,HateNPC,I hate being near {NPCName}.,★Iは{NPCName}近くにある嫌い。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Cyborg,Content,All neural functions appear to be operating smoothly.,★すべての神経の機能がスムーズに動作するように見えます。
@@ -15592,11 +15592,11 @@ Terraria.Localization.Content.en-US.Town,TownNPCMood_Cyborg,DislikeCrowded,Too m
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Cyborg,HateCrowded,Lifeform limit exceeded. Neural functions overloaded. Translation: I hate this.,★生命体の制限を超えました。神経機能は、オーバーロード。翻訳：私はこれを憎みます。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Cyborg,LoveSpace,Zero close proximity life signs detected. This is fortunate.,★ゼロ近接生命兆候が検出されました。これは幸運です。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Cyborg,LikeBiome,My cybernetic functions perform optimally in {BiomeName}'s temperature gradient. This is a plus.,★私のサイバネティック機能は{BiomeName}の温度勾配を最適に行います。これはプラスです。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Cyborg,LoveBiome,I love {BiomeName}.,★私の愛{} BiomeName。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Cyborg,LoveBiome,I love {BiomeName}.,★私の愛 {BiomeName} 。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Cyborg,DislikeBiome,The flora and fauna are invading my synthetic exoskeleton: {BiomeName} is an undesired location for myself.,★動植物は私の合成外骨格に侵入している：{BiomeName}が自分のために望ましくない場所です。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Cyborg,HateBiome,Detecting overwhelming numbers of hostile life signatures in {BiomeName}.,★ {BiomeName}に敵対的な寿命シグネチャの圧倒的な数を検出します。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Cyborg,LikeNPC,{NPCName} attempts to treat me favorably like another human. It appears I appreciate that.,★好適別の人間のように私を治療するために{NPCName}試みます。私がそれを感謝表示されます。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Cyborg,LoveNPC,I love being around {NPCName}.,★私は{} NPCNameの周りにいるのが大好きです。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Cyborg,LoveNPC,I love being around {NPCName}.,★私は {NPCName} の周りにいるのが大好きです。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Cyborg,DislikeNPC,"{NPCName} does not comprehend my existence, for it deviates from the norm. Unusual. The negative feeling is mutual.",★それは規範から外れたため、{NPCName}は、私の存在を理解しません。珍しいです。負の感情は相互です。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Cyborg,HateNPC,{NPCName}'s functions cannot be scientifically analyzed. Neutral functions overloaded. Translation: I hate this.,★ {NPCName}の機能は、科学的に分析することができません。ニュートラルな機能は、オーバーロード。翻訳：私はこれを憎みます。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_SantaClaus,Content,I am jolly!,★私は陽気です！
@@ -15608,11 +15608,11 @@ Terraria.Localization.Content.en-US.Town,TownNPCMood_SantaClaus,LoveSpace,"Ho ho
 Terraria.Localization.Content.en-US.Town,TownNPCMood_SantaClaus,LikeBiome,I like {BiomeName}.,★ {BiomeName}等I。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_SantaClaus,LoveBiome,I absolutely love it here! Are you surprised? Who thought I wouldn't like {BiomeName}?,★私は絶対にここでそれを愛します！驚きましたか？誰が私が{BiomeName}を好きではないだろうと思いましたか？
 Terraria.Localization.Content.en-US.Town,TownNPCMood_SantaClaus,DislikeBiome,I dislike {BiomeName}.,★Iは{BiomeName}を嫌います。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_SantaClaus,HateBiome,I'm adding you to the naughty list for putting me in a awful place like {BiomeName}.,★私は{} BiomeNameなどのひどい場所で私を置くためのいたずらリストにあなたを追加しています。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_SantaClaus,HateBiome,I'm adding you to the naughty list for putting me in a awful place like {BiomeName}.,★私は {BiomeName} などのひどい場所で私を置くためのいたずらリストにあなたを追加しています。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_SantaClaus,LikeNPC,I like being around {NPCName}.,★周り{NPCName}であるようなI。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_SantaClaus,LoveNPC,I love being around {NPCName}.,★私は{} NPCNameの周りにいるのが大好きです。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_SantaClaus,LoveNPC,I love being around {NPCName}.,★私は {NPCName} の周りにいるのが大好きです。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_SantaClaus,DislikeNPC,I dislike being around{NPCName}.,★Iは{NPCName}周りにいる嫌い。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_SantaClaus,HateNPC,"I hate people who don't believe in me! For example, {NPCName}, the naughtiest I've ever known!",★私は私を信じていない人を憎みます！たとえば、{} NPCName、私が今まで知られてきてん！
+Terraria.Localization.Content.en-US.Town,TownNPCMood_SantaClaus,HateNPC,"I hate people who don't believe in me! For example, {NPCName}, the naughtiest I've ever known!",★私は私を信じていない人を憎みます！たとえば、{NPCName} 、私が今まで知られてきてん！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Golfer,Content,I'm doing fine!,★私は罰金をやっています！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Golfer,NoHome,I need a place to hang up my clubs.,★私は自分のクラブをハングアップする場所が必要です。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Golfer,FarFromHome,I think I've wandered off course. That is not a smart move.,★私はもちろん、オフさまよったと思います。それは賢明ではありません。
@@ -15620,11 +15620,11 @@ Terraria.Localization.Content.en-US.Town,TownNPCMood_Golfer,DislikeCrowded,Golf 
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Golfer,HateCrowded,"Hate to say it, but I rather hate all the foot traffic here.",★それを言うことを憎むが、私はむしろ、ここですべての足のトラフィックを憎みます。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Golfer,LoveSpace,Nothing better than having all this space to yourself.,★自分自身にこのすべてのスペースを持つよりも良い何もありません。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Golfer,LikeBiome,I like {BiomeName}. It has all the necessary features for golfing.,★ {BiomeName}等I。それはゴルフのために必要なすべての機能を備えています。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Golfer,LoveBiome,I love {BiomeName}.,★私の愛{} BiomeName。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Golfer,DislikeBiome,Tell me something. How am I supposed to golf in a place like {BiomeName}?,★私に何かを教えてください。どのように私は、{} BiomeNameような場所でゴルフになっていますか？
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Golfer,HateBiome,I especially think it's unwise to hang around a place like {BiomeName}.,★私は特にそれが{} BiomeNameような場所の周りにハングアップするために賢明だと思います。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Golfer,LikeNPC,It's always fun to hang out with {NPCName}. Good people.,★それは、常に{} NPCNameでたむろして楽しいです。善良な人。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Golfer,LoveNPC,Unpopular opinion: I quite love having {NPCName} around. I get my water hazards returned to me!,★不人気の意見：私はかなり{} NPCNameの周りを持っ大好きです。私は私に戻って私のウォーターハザードを入手します！
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Golfer,LoveBiome,I love {BiomeName}.,★私の愛 {BiomeName} 。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Golfer,DislikeBiome,Tell me something. How am I supposed to golf in a place like {BiomeName}?,★私に何かを教えてください。どのように私は、{BiomeName} ような場所でゴルフになっていますか？
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Golfer,HateBiome,I especially think it's unwise to hang around a place like {BiomeName}.,★私は特にそれが {BiomeName} ような場所の周りにハングアップするために賢明だと思います。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Golfer,LikeNPC,It's always fun to hang out with {NPCName}. Good people.,★それは、常に {NPCName} でたむろして楽しいです。善良な人。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Golfer,LoveNPC,Unpopular opinion: I quite love having {NPCName} around. I get my water hazards returned to me!,★不人気の意見：私はかなり {NPCName} の周りを持っ大好きです。私は私に戻って私のウォーターハザードを入手します！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Golfer,DislikeNPC,I dislike being around {NPCName}. Makes me feel uneasy.,★Iは{NPCName}周りにいる嫌い。私は不安に感じさせます。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Golfer,HateNPC,I hate {NPCName}'s greedy attitude. It's pretty unnecessary in a world like this.,★Iは{NPCName}の貪欲な姿勢を嫌います。これは、このような世界ではかなり不要です。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Truffle,Content,"I am quite happy, considering.",★私が考えると、非常に満足しています。
@@ -15633,10 +15633,10 @@ Terraria.Localization.Content.en-US.Town,TownNPCMood_Truffle,FarFromHome,I don't
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Truffle,DislikeCrowded,I don't like this anxiety I'm getting from the people gathering around me.,★私は私の周りに集まる人々から取得しています。この不安が好きではありません。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Truffle,HateCrowded,"I hate it. So many people... I... I'm not going to get eaten, right?",★私はそれが嫌いです。だから、多くの人が...私は...私は、右食わするつもりはありませんか？
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Truffle,LoveSpace,I love having so mush room to myself. What's so funny?,★私は自分自身にそうマッシュ部屋を持っ大好きです。何がそんなに面白いですか？
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Truffle,LikeBiome,"I feel right at home, like I am one with {BiomeName} biome.",★私は{} BiomeNameバイオームと一人のように私は、自宅で右に感じます。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Truffle,LoveBiome,I love {BiomeName}.,★私の愛{} BiomeName。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Truffle,LikeBiome,"I feel right at home, like I am one with {BiomeName} biome.",★私は {BiomeName} バイオームと一人のように私は、自宅で右に感じます。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Truffle,LoveBiome,I love {BiomeName}.,★私の愛 {BiomeName} 。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Truffle,DislikeBiome,I dislike {BiomeName}.,★Iは{BiomeName}を嫌います。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_Truffle,HateBiome,"I don't belong in {BiomeName}, I would not survive!",★私は生き残ることができません、{} BiomeNameに属していません！
+Terraria.Localization.Content.en-US.Town,TownNPCMood_Truffle,HateBiome,"I don't belong in {BiomeName}, I would not survive!",★私は生き残ることができません、{BiomeName} に属していません！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Truffle,LikeNPC,"{NPCName} treats me with respect, as though I'm a true part of nature. I don't know how to feel about that, except I like it.",★私は自然の真の一環だかのように{NPCName}は、尊敬で私を扱います。私はそれのように除き、それについて感じる方法がわかりません。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Truffle,LoveNPC,I love {NPCName} for being able to talk to me without mysteriously getting hungry.,★私は不思議な空腹取得せずに私に話をすることができることのために{NPCName}を愛します。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_Truffle,DislikeNPC,"{NPCName} has tried to eat me so many times. I swear, one time they weren't even human! I, obviously, dislike it.",★ {NPCNameは}私に何度も食べてみました。私は、彼らも人間でなかった1時間を誓います！私は、明らかに、それを嫌います。
@@ -15648,11 +15648,11 @@ Terraria.Localization.Content.en-US.Town,TownNPCMood_BestiaryGirl,DislikeCrowded
 Terraria.Localization.Content.en-US.Town,TownNPCMood_BestiaryGirl,HateCrowded,Eek! I hate feeling worried about what will happen with all these people around!,★イーク！私は気持ちが周りのすべてのこれらの人々に何が起こるか心配嫌い！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_BestiaryGirl,LoveSpace,"I absolutely love having my own place to be myself! This is like, totally awesome!",★私は絶対に自分自身であることを自分自身の場所を持っ大好き！これは完全に素晴らしい、のようなものです！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_BestiaryGirl,LikeBiome,"I love animals, so naturally {BiomeName} is like, the best place ever! Yas!",★私は当然{BiomeName}は史上最高の場所、のようなものです、動物が大好き！ヤス！
-Terraria.Localization.Content.en-US.Town,TownNPCMood_BestiaryGirl,LoveBiome,I love {BiomeName}.,★私の愛{} BiomeName。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_BestiaryGirl,LoveBiome,I love {BiomeName}.,★私の愛{BiomeName} 。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_BestiaryGirl,DislikeBiome,"It's like, weird having instincts and all, and {BiomeName} really makes me want to run away!",★それは奇妙持つ本能とすべて、のようなものだ、と{BiomeName}は本当に私が逃げ出したくなります！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_BestiaryGirl,HateBiome,"Like, {BiomeName} totally reeks of those curses that fox cub had -- the one that bit me!",★私をビット1  - と同様に、{BiomeName}は完全にキツネカブが持っていたことを、それらの呪いのにおい！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_BestiaryGirl,LikeNPC,"Of course I like {NPCName}! I like, knew them since I was born!",★もちろん私は{NPCNameを}好き！私は、好きな私が生まれたので、それらを知っていました！
-Terraria.Localization.Content.en-US.Town,TownNPCMood_BestiaryGirl,LoveNPC,"I can't explain it. I have like, a thing for {NPCName}. Is it because of the tail?",★私はそれを説明することはできません。私は、のように{} NPCNameのためのものを持っています。それがために、尾のですか？
+Terraria.Localization.Content.en-US.Town,TownNPCMood_BestiaryGirl,LoveNPC,"I can't explain it. I have like, a thing for {NPCName}. Is it because of the tail?",★私はそれを説明することはできません。私は、のように{NPCName} のためのものを持っています。それがために、尾のですか？
 Terraria.Localization.Content.en-US.Town,TownNPCMood_BestiaryGirl,DislikeNPC,I don't like how cruel {NPCName} is!,★私は{NPCName}がどのように残酷な好きではありません！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_BestiaryGirl,HateNPC,I really totally hate what {NPCName} does to animals!,★私は本当に全く{NPCName}は動物に何をするか嫌い！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_BestiaryGirlTransformed,Content,Rrrr... feel fine.,★RRRR ...罰金を感じます。
@@ -15661,10 +15661,10 @@ Terraria.Localization.Content.en-US.Town,TownNPCMood_BestiaryGirlTransformed,Far
 Terraria.Localization.Content.en-US.Town,TownNPCMood_BestiaryGirlTransformed,DislikeCrowded,Rawgh! PEOPLE. TOO MANY. Irritate!,★Rawgh！人。多すぎる。刺激！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_BestiaryGirlTransformed,HateCrowded,Snarrrrrll... CANNOT. STAND. CROWDING!,★Snarrrrrll ...することはできません。スタンド。クラウディング！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_BestiaryGirlTransformed,LoveSpace,Rrrrr... open space. HAPPY.,★RRRRR ...オープンスペース。ハッピー。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_BestiaryGirlTransformed,LikeBiome,In {BiomeName}... Good RUN! PLAY! HUNT! Yee!,★ {} BiomeNameで...グッドRUN！演奏する！ハント！イー！
+Terraria.Localization.Content.en-US.Town,TownNPCMood_BestiaryGirlTransformed,LikeBiome,In {BiomeName}... Good RUN! PLAY! HUNT! Yee!,★ {BiomeName} で...グッドRUN！演奏する！ハント！イー！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_BestiaryGirlTransformed,LoveBiome,FAVORITE LAND... {BiomeName}. DELIGHT.,★FAVORITE LAND ... {BiomeName}。喜び。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_BestiaryGirlTransformed,DislikeBiome,Mrrrr... {BiomeName}. NO SMELL GOOD.,★Mrrrr ... {BiomeName}。臭いのGOODません。
-Terraria.Localization.Content.en-US.Town,TownNPCMood_BestiaryGirlTransformed,HateBiome,"Gughhh, {BiomeName}... I LOATHE. BAD SCENERY.",★Gughhh、{} BiomeName ... I大嫌い。 BAD SCENERY。
+Terraria.Localization.Content.en-US.Town,TownNPCMood_BestiaryGirlTransformed,HateBiome,"Gughhh, {BiomeName}... I LOATHE. BAD SCENERY.",★Gughhh、{BiomeName}  ... I大嫌い。 BAD SCENERY。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_BestiaryGirlTransformed,LikeNPC,{NPCName}. Rrr... GOOD. FEEL.,★ {NPCName}。 RRR ... GOOD。 FEEL。
 Terraria.Localization.Content.en-US.Town,TownNPCMood_BestiaryGirlTransformed,LoveNPC,LOVE. STRONG... {NPCName}. Yeeyee!,★愛。 STRONG ... {NPCName}。 Yeeyee！
 Terraria.Localization.Content.en-US.Town,TownNPCMood_BestiaryGirlTransformed,DislikeNPC,{NPCName}.... VIBES. BAD! Grrl,★ {NPCName} .... VIBES。悪い！ Grrl
